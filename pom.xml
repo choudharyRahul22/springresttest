@@ -54,7 +54,6 @@
                     </execution>
                 </executions>
             </plugin>
-
             <plugin>
                         <artifactId>maven-war-plugin</artifactId>
                         <version>${version.war.plugin}</version>
